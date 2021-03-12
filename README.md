@@ -1,6 +1,6 @@
 # NetworkScanner
 
-<h4>Build and install from sourced</h4>
+<h2>Build and install from sourced</h2>
 git clone https://github.com/okan-calisir/NetworkScan
 
 <h2>Usage</h2>
@@ -11,4 +11,4 @@ cd NetworkScan
 
 -i --ip ip address
 
-python3 NetworkScan.py -i (ip) 
+python3 NetworkScan.py -i (ip address) 
