@@ -1,8 +1,10 @@
 # NetworkScanner
 
-Build and install from sourced
+<h4>Build and install from sourced</h4>
 git clone https://github.com/okan-calisir/NetworkScan
+
 Usage
+
 NetworkScan v1.0 usage:
 
 cd NetworkScan
